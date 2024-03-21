@@ -1,7 +1,7 @@
 # Introduction
 This project is to explore the capabilities of autoscaling for VK or JRM of JIRIAF
 
-## Testing Upscaling and Downscaling of Pods for VK using HPA and metrics-server of K8s 
+## Evaluating Pod Scaling for VK using Kubernetes' Horizontal Pod Autoscaler and Metrics Server
 This document describes the process of testing the upscaling and downscaling of pods for VK using the Horizontal Pod Autoscaler (HPA) of Kubernetes. The metrics used for the HPA are CPU and memory from metrics-server.
 
 ### Setup
