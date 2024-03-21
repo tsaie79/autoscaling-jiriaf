@@ -1,4 +1,5 @@
-# This project is to explore the capabilities of autoscaling for VK or JRM of JIRIAF
+# Introduction
+This project is to explore the capabilities of autoscaling for VK or JRM of JIRIAF
 
 ## Testing Upscaling and Downscaling of Pods for VK using HPA of Kubernetes
 This document describes the process of testing the upscaling and downscaling of pods for VK using the Horizontal Pod Autoscaler (HPA) of Kubernetes.
